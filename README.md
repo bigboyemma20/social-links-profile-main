@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/social-links-profile-with-html-and-css-DlFSqe9_xL
 - Live Site URL: https://bigboyemma20.github.io/social-links-profile-main/
 
 ## My process
